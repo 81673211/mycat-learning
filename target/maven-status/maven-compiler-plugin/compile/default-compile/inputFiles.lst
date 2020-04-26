@@ -1,0 +1,11 @@
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/DBContextHolder.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/RwSplitApplication.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/DynamicDataSource.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/DataSourceAop.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/MyBatisConfig.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/DataSourceConfig.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/DBTypeEnum.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/domain/Stu.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/RWController.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/RWMapper.java
+/Users/fred/code/fred/mycat-learning/src/main/java/com/fred/rwsplit/RWService.java

@@ -1,0 +1,11 @@
+com/fred/rwsplit/RWController.class
+com/fred/rwsplit/DataSourceAop.class
+com/fred/rwsplit/domain/Stu.class
+com/fred/rwsplit/DataSourceConfig.class
+com/fred/rwsplit/DBTypeEnum.class
+com/fred/rwsplit/DBContextHolder.class
+com/fred/rwsplit/RWMapper.class
+com/fred/rwsplit/DynamicDataSource.class
+com/fred/rwsplit/MyBatisConfig.class
+com/fred/rwsplit/RWService.class
+com/fred/rwsplit/RwSplitApplication.class
